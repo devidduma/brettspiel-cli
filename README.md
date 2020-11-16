@@ -8,7 +8,9 @@ Raubtiere verhungern, wenn sie eine bestimmte Zeit lang nicht gefressen haben. E
 können nur Vegetarier gefressen werden. Die Art des Raubtiers oder Vegetariers ist dabei
 unerheblich. (D. h. ein Pinguin kann z.B. einen Elefanten verspeisen.) Die vorkommenden
 Tierarten sind:
+
 • Vegetarier: Kaninchen, Elefant, Pferd
 • Raubtiere: Leopard, Schlange, Pinguin
+
 Für weitere Informationen über die Spielregeln bitte den Spielregeln.pdf file runterladen und lesen.
 Danke.
