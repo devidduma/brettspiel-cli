@@ -13,4 +13,4 @@ Tierarten sind:
 
 • Raubtiere: Leopard, Schlange, Pinguin
 
-Für weitere Informationen über die Spielregeln bitte den Spielregeln.pdf File lesen.
+Für weitere Informationen über die Spielregeln bitte [Spielregeln.pdf]("./Spielregeln.pdf") lesen.
