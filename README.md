@@ -10,6 +10,7 @@ unerheblich. (D. h. ein Pinguin kann z.B. einen Elefanten verspeisen.) Die vorko
 Tierarten sind:
 
 • Vegetarier: Kaninchen, Elefant, Pferd
+
 • Raubtiere: Leopard, Schlange, Pinguin
 
 Für weitere Informationen über die Spielregeln bitte den Spielregeln.pdf file runterladen und lesen.
