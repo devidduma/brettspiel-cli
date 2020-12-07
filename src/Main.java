@@ -13,7 +13,7 @@ public class Main {
         //TODO
     	boolean ladiesFirst = false;
     	
-    	String entsch = IO.readString("\"Kampf der Geschlechter\"-$ " +
+    	String entsch = IO.readString("\"Brettspiel-CLI\"-$ " +
     			" : Wer soll das Spiel beginnen? [W / M]");
     	
     	boolean gueltigkeit = false;
@@ -25,7 +25,7 @@ public class Main {
 	    		ladiesFirst = false;
     			gueltigkeit = true;
 	    	} else {
-	    		entsch = IO.readString("Kampf der Geschlechter/n" +
+	    		entsch = IO.readString("Brettspiel-CLI/n" +
 	        		":: Falsche Eingabe! Bitte mit [W / M] antworten: ");
 	    	}
     	}
